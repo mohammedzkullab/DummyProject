@@ -2,7 +2,7 @@
     <h1 align="center">Dummy Project </h1>
 </p>
 <p align="center">
-    <em><code>► [https://alfanar.netlify.app/](https://dummyprojectmoha.netlify.app/)</code></em>
+    <em><code>► [https://dummyprojectmoha.netlify.app](https://dummyprojectmoha.netlify.app/)</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/mohammedzkullab/DummyProject?style=flat&color=0080ff" alt="license">
